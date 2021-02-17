@@ -1,7 +1,10 @@
 ---
 title: To 100 Boys I Dated Before
 date: 2021-02-17 15:51:00 -05:00
+layout: post
 ---
+
+From [zeyaoli.com](http://zeyaoli.com)
 
 ## About
 I started this project right after I ended my last long-term relationship. I was back on dating apps and had the familiar experience of swiping people, then got bored with it. I wondered how everyone could impress people with their profiles but had weird or boring conversations after getting matched. So we decided to do a project related to this experience and make fun of it with machine learning.
