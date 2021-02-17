@@ -5,3 +5,5 @@ layout: page
 ---
 
 You can't find me anywhere...
+
+![headshot_1.jpg](/uploads/headshot_1.jpg)
