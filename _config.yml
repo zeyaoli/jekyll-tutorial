@@ -1,5 +1,5 @@
 ---
-title: Zeyao Li Example
+title: Zeyao's Learning Site
 timezone: UTC
 collections:
   posts:
@@ -12,8 +12,8 @@ email: zeyao.li@nyu.edu
 description: Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
   results) and in your feed.xml site description.
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: lizeyao
 github_username: zeyaoli
 theme: minima
